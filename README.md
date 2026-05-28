@@ -1,6 +1,6 @@
-![OpenClaw Cookbook banner](docs/assets/readme-banner.jpg)
-
 # OpenClaw Cookbook
+
+![OpenClaw Cookbook banner](docs/assets/readme-banner.jpg)
 
 Runnable examples for building apps, tools, and automations on the OpenClaw SDK.
 
